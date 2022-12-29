@@ -18,8 +18,8 @@ const Xxx = () => {
           <br />
           <div className="picb">
             <span className="btxt ttp">
-              <h1>You see Trees !!</h1>
-              <h2>We see heaven of peacefulness</h2>
+              <h1>See for the first time that tree,</h1>
+              <h2>bush or blade of grass.</h2>
             </span>
           </div>
         </div>
@@ -34,13 +34,12 @@ const Xxx = () => {
           <div className="img11"></div>
           <div>
             <br />
-            <h3>Enjoy the moments</h3>
-            For other uses, see Mother Earth. For the song, see Mother
-            Nature.For environmental organization, see Mother Nature Cambodia.
+            <h3>Right Relationship With Nature?</h3>
+            Right relationship implies the acceptance of a formula, as does right thought. Right thought and right thinking are two different things.
             <br />
             <br />
             Travel /{" "}
-            <font style={{ color: "#0202" }}> I like these in 2020</font>
+            <font style={{ color: "#0202" }}> Earth, Intelligence, Poem</font>
           </div>
           <More1 />
           <More1 />
